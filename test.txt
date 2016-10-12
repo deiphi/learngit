@@ -2,3 +2,8 @@
 2
 whh
 change this line
+
+{
+    "files.autoSave": "afterDelay",
+    "typescript.tsdk": "C:/Users/deiph/AppData/Roaming/npm/node_modules/typescript/lib"
+}
